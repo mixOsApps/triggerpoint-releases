@@ -1,7 +1,7 @@
 {
-    "versionCode":  3,
-    "versionName":  "0.4.1",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.4.1/triggerpoint-0.4.1.apk",
-    "releaseNotes":  "In-app updates now work without any setup: the app checks for new versions on start and in Settings.",
+    "versionCode":  4,
+    "versionName":  "0.5.0",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.5.0/triggerpoint-0.5.0.apk",
+    "releaseNotes":  "New look on every screen. In Settings \u003e Appearance, choose Light, Dark or System, and a Red or Slate colour.",
     "forceUpdate":  false
 }
