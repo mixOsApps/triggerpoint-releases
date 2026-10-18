@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "0.3.0",
-  "apkUrl": "",
-  "releaseNotes": "",
-  "forceUpdate": false
+    "versionCode":  2,
+    "versionName":  "0.4.0",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.4.0/triggerpoint-0.4.0.apk",
+    "releaseNotes":  "New home screen, Stroke rehab videos, red theme on Home, and Settings with in-app updates.",
+    "forceUpdate":  false
 }
