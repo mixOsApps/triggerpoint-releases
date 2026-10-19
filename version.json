@@ -1,7 +1,7 @@
 {
-    "versionCode":  10,
-    "versionName":  "0.6.3",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.6.3/triggerpoint-0.6.3.apk",
-    "releaseNotes":  "Rotating the phone no longer clears the points you marked on the body map.",
+    "versionCode":  11,
+    "versionName":  "0.6.4",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.6.4/triggerpoint-0.6.4.apk",
+    "releaseNotes":  "Condition guides updated with El Paso\u0027s videos up to October 2026; newer advice replaces older.",
     "forceUpdate":  false
 }
