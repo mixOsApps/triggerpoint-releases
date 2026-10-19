@@ -1,7 +1,7 @@
 {
-    "versionCode":  4,
-    "versionName":  "0.5.0",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.5.0/triggerpoint-0.5.0.apk",
-    "releaseNotes":  "New look on every screen. In Settings \u003e Appearance, choose Light, Dark or System, and a Red or Slate colour.",
+    "versionCode":  5,
+    "versionName":  "0.5.1",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.5.1/triggerpoint-0.5.1.apk",
+    "releaseNotes":  "Tapping one side of the body now highlights that side only, not its mirror image.",
     "forceUpdate":  false
 }
