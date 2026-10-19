@@ -1,7 +1,7 @@
 {
-    "versionCode":  8,
-    "versionName":  "0.6.1",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.6.1/triggerpoint-0.6.1.apk",
-    "releaseNotes":  "The Front / Back / Side / Top tabs are no longer cut off, in portrait or landscape.",
+    "versionCode":  9,
+    "versionName":  "0.6.2",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.6.2/triggerpoint-0.6.2.apk",
+    "releaseNotes":  "Body map: buttons now sit inside the map panel, smaller view tabs, and more room for the results.",
     "forceUpdate":  false
 }
