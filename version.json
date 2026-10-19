@@ -1,7 +1,7 @@
 {
-    "versionCode":  7,
-    "versionName":  "0.6.0",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.6.0/triggerpoint-0.6.0.apk",
-    "releaseNotes":  "New sections: Red flags checklist, Muscles (search and quick card), and Nerves on the body map (dermatomes, nerves, myotomes and reflexes).",
+    "versionCode":  8,
+    "versionName":  "0.6.1",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.6.1/triggerpoint-0.6.1.apk",
+    "releaseNotes":  "The Front / Back / Side / Top tabs are no longer cut off, in portrait or landscape.",
     "forceUpdate":  false
 }
