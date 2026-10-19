@@ -1,7 +1,7 @@
 {
-    "versionCode":  9,
-    "versionName":  "0.6.2",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.6.2/triggerpoint-0.6.2.apk",
-    "releaseNotes":  "Body map: buttons now sit inside the map panel, smaller view tabs, and more room for the results.",
+    "versionCode":  10,
+    "versionName":  "0.6.3",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.6.3/triggerpoint-0.6.3.apk",
+    "releaseNotes":  "Rotating the phone no longer clears the points you marked on the body map.",
     "forceUpdate":  false
 }
