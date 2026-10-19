@@ -1,7 +1,7 @@
 {
-    "versionCode":  6,
-    "versionName":  "0.5.2",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.5.2/triggerpoint-0.5.2.apk",
-    "releaseNotes":  "Slate in dark mode: Yes/No in dialogs, section headers and timestamps are readable again.",
+    "versionCode":  7,
+    "versionName":  "0.6.0",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.6.0/triggerpoint-0.6.0.apk",
+    "releaseNotes":  "New sections: Red flags checklist, Muscles (search and quick card), and Nerves on the body map (dermatomes, nerves, myotomes and reflexes).",
     "forceUpdate":  false
 }
