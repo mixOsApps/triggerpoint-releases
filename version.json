@@ -1,7 +1,7 @@
 {
-    "versionCode":  15,
-    "versionName":  "0.8.0",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.8.0/triggerpoint-0.8.0.apk",
-    "releaseNotes":  "Body map fills the screen; Nerve, El Paso and Muscles cards open from the side buttons. Tap marks pain, a swipe only moves, long-press and drag turns the 3D body (or sweeps on 2D), pinch zooms where your fingers are. Home shows two cards per row.",
+    "versionCode":  16,
+    "versionName":  "0.8.1",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.8.1/triggerpoint-0.8.1.apk",
+    "releaseNotes":  "Fix: the therapist\u0027s new trigger points for the 16 neck and head muscles now appear (the app reloads its reference data on the first start after updating).",
     "forceUpdate":  false
 }
