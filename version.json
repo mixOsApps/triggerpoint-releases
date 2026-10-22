@@ -1,7 +1,7 @@
 {
-    "versionCode":  13,
-    "versionName":  "0.7.1",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.7.1/triggerpoint-0.7.1.apk",
-    "releaseNotes":  "A more defined 3D body with skin and switchable anatomy lines, referral zones of 36 muscles redrawn from the Travell \u0026 Simons charts, and an X-ray button that shows the skeleton under the skin.",
+    "versionCode":  14,
+    "versionName":  "0.7.2",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.7.2/triggerpoint-0.7.2.apk",
+    "releaseNotes":  "Neck and head muscles redrawn from the Travell \u0026 Simons charts by the therapist: 16 muscles with new referral zones and corrected trigger points.",
     "forceUpdate":  false
 }
