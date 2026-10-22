@@ -1,7 +1,7 @@
 {
-    "versionCode":  12,
-    "versionName":  "0.7.0",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.7.0/triggerpoint-0.7.0.apk",
-    "releaseNotes":  "The body map in 3D: turn the body, tap to mark pain, see the matching zones and trigger sites on the skin. 2D is one tap away.",
+    "versionCode":  13,
+    "versionName":  "0.7.1",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.7.1/triggerpoint-0.7.1.apk",
+    "releaseNotes":  "A more defined 3D body with skin and switchable anatomy lines, referral zones of 36 muscles redrawn from the Travell \u0026 Simons charts, and an X-ray button that shows the skeleton under the skin.",
     "forceUpdate":  false
 }
