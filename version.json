@@ -1,7 +1,7 @@
 {
-    "versionCode":  16,
-    "versionName":  "0.8.1",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.8.1/triggerpoint-0.8.1.apk",
-    "releaseNotes":  "Fix: the therapist\u0027s new trigger points for the 16 neck and head muscles now appear (the app reloads its reference data on the first start after updating).",
+    "versionCode":  17,
+    "versionName":  "0.9.0",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.9.0/triggerpoint-0.9.0.apk",
+    "releaseNotes":  "New: Reflexology foot and hand maps (Home card), and an Arm button on the 3D body that also lifts the arm by itself to show armpit trigger points.",
     "forceUpdate":  false
 }
