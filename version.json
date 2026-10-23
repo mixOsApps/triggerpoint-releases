@@ -1,7 +1,7 @@
 {
-    "versionCode":  19,
-    "versionName":  "0.9.2",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.9.2/triggerpoint-0.9.2.apk",
-    "releaseNotes":  "Updated referral zones and trigger points from the therapist\u0027s painting.",
+    "versionCode":  20,
+    "versionName":  "0.9.3",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.9.3/triggerpoint-0.9.3.apk",
+    "releaseNotes":  "The arm now lifts only when you press the Arm button (no automatic raise).",
     "forceUpdate":  false
 }
