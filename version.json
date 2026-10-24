@@ -1,7 +1,7 @@
 {
-    "versionCode":  21,
-    "versionName":  "0.9.4",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.9.4/triggerpoint-0.9.4.apk",
+    "versionCode":  22,
+    "versionName":  "0.9.5",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.9.5/triggerpoint-0.9.5.apk",
     "releaseNotes":  "Updated referral zones and trigger points from the therapist\u0027s painting.",
     "forceUpdate":  false
 }
