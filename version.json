@@ -1,7 +1,7 @@
 {
-    "versionCode":  23,
-    "versionName":  "0.9.6",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.9.6/triggerpoint-0.9.6.apk",
-    "releaseNotes":  "Updated referral zones and trigger points from the therapist\u0027s painting.",
+    "versionCode":  24,
+    "versionName":  "0.10.0",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.10.0/triggerpoint-0.10.0.apk",
+    "releaseNotes":  "Muscles in the 3D body map: Off / Current / All shows the real muscles under the see-through skin (the current muscle in red). Masculine eyebrows.",
     "forceUpdate":  false
 }
