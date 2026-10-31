@@ -1,7 +1,7 @@
 {
-    "versionCode":  24,
-    "versionName":  "0.10.0",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.10.0/triggerpoint-0.10.0.apk",
-    "releaseNotes":  "Muscles in the 3D body map: Off / Current / All shows the real muscles under the see-through skin (the current muscle in red). Masculine eyebrows.",
+    "versionCode":  25,
+    "versionName":  "0.11.0",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.11.0/triggerpoint-0.11.0.apk",
+    "releaseNotes":  "Updates now download in the background with a progress notification and a progress card in Settings.",
     "forceUpdate":  false
 }
