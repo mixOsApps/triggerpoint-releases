@@ -1,7 +1,7 @@
 {
-    "versionCode":  25,
-    "versionName":  "0.11.0",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.11.0/triggerpoint-0.11.0.apk",
-    "releaseNotes":  "Updates now download in the background with a progress notification and a progress card in Settings.",
+    "versionCode":  26,
+    "versionName":  "0.12.0",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.12.0/triggerpoint-0.12.0.apk",
+    "releaseNotes":  "3D map: after you tap a pain spot, floating chips list the muscles that refer pain there. Tap one or more to show only their trigger points and referral zones, each in its own colour.",
     "forceUpdate":  false
 }
