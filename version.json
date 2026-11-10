@@ -1,7 +1,7 @@
 {
-    "versionCode":  29,
-    "versionName":  "0.14.1",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.14.1/triggerpoint-0.14.1.apk",
-    "releaseNotes":  "Condition guides gain symptom cards in the client\u0027s words, each linked to the video at the right minute.",
+    "versionCode":  30,
+    "versionName":  "0.14.2",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.14.2/triggerpoint-0.14.2.apk",
+    "releaseNotes":  "Condition guides updated with El Paso\u0027s videos up to November 2026; newer advice replaces older.",
     "forceUpdate":  false
 }
