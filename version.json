@@ -1,7 +1,7 @@
 {
-    "versionCode":  31,
-    "versionName":  "0.15.0",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.15.0/triggerpoint-0.15.0.apk",
-    "releaseNotes":  "3D map: the Nerve check and El Paso cards now follow the muscle chips you select, and the Muscles card highlights the selected rows. Tapping a row selects or deselects its chip.",
+    "versionCode":  32,
+    "versionName":  "0.16.0",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.16.0/triggerpoint-0.16.0.apk",
+    "releaseNotes":  "Smoother 3D body with a flick glide and a how-to-move card; picking a muscle flies to it with name pills; Region views, compare with an earlier session, referral lines, share a picture.",
     "forceUpdate":  false
 }
