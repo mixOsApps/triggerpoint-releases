@@ -1,7 +1,7 @@
 {
-    "versionCode":  30,
-    "versionName":  "0.14.2",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.14.2/triggerpoint-0.14.2.apk",
-    "releaseNotes":  "Condition guides updated with El Paso\u0027s videos up to November 2026; newer advice replaces older.",
+    "versionCode":  31,
+    "versionName":  "0.15.0",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.15.0/triggerpoint-0.15.0.apk",
+    "releaseNotes":  "3D map: the Nerve check and El Paso cards now follow the muscle chips you select, and the Muscles card highlights the selected rows. Tapping a row selects or deselects its chip.",
     "forceUpdate":  false
 }
