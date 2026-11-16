@@ -1,7 +1,7 @@
 {
-    "versionCode":  37,
-    "versionName":  "0.20.0",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.20.0/triggerpoint-0.20.0.apk",
-    "releaseNotes":  "New Layers panel for the 3D body (skin, muscles, bones, lines, nerves, each with its own opacity) and the main nerves in 3D.",
+    "versionCode":  38,
+    "versionName":  "0.21.0",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.21.0/triggerpoint-0.21.0.apk",
+    "releaseNotes":  "Reflexology in 3D: turn the foot or hand and tap any region. New Thumb side hand view for the spine, fuller foot maps.",
     "forceUpdate":  false
 }
