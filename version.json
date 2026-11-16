@@ -1,7 +1,7 @@
 {
-    "versionCode":  32,
-    "versionName":  "0.16.0",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.16.0/triggerpoint-0.16.0.apk",
-    "releaseNotes":  "Smoother 3D body with a flick glide and a how-to-move card; picking a muscle flies to it with name pills; Region views, compare with an earlier session, referral lines, share a picture.",
+    "versionCode":  37,
+    "versionName":  "0.20.0",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.20.0/triggerpoint-0.20.0.apk",
+    "releaseNotes":  "New Layers panel for the 3D body (skin, muscles, bones, lines, nerves, each with its own opacity) and the main nerves in 3D.",
     "forceUpdate":  false
 }
