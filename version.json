@@ -1,7 +1,7 @@
 {
-    "versionCode":  38,
-    "versionName":  "0.21.0",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.21.0/triggerpoint-0.21.0.apk",
-    "releaseNotes":  "Reflexology in 3D: turn the foot or hand and tap any region. New Thumb side hand view for the spine, fuller foot maps.",
+    "versionCode":  39,
+    "versionName":  "0.22.0",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.22.0/triggerpoint-0.22.0.apk",
+    "releaseNotes":  "Updates show their progress on screen (Background or Cancel), never download the same version twice, and only install when you tap Install.",
     "forceUpdate":  false
 }
