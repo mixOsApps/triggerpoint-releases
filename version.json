@@ -1,7 +1,7 @@
 {
-    "versionCode":  39,
-    "versionName":  "0.22.0",
-    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.22.0/triggerpoint-0.22.0.apk",
-    "releaseNotes":  "Updates show their progress on screen (Background or Cancel), never download the same version twice, and only install when you tap Install.",
+    "versionCode":  40,
+    "versionName":  "0.22.1",
+    "apkUrl":  "https://github.com/mixOsApps/triggerpoint-releases/releases/download/v0.22.1/triggerpoint-0.22.1.apk",
+    "releaseNotes":  "A cancelled update download now carries on where it stopped, even after the app was closed.",
     "forceUpdate":  false
 }
